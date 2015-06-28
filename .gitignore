@@ -1,0 +1,34 @@
+src/*.exe
+src/vapecoin
+src/vapecoind
+src/test_vapecoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.vapecoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+vapecoin-qt
+VapeCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+vapecoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
