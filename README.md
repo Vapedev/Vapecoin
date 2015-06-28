@@ -8,18 +8,7 @@ Copyright (c) 2011-2014 VapeCoin Developers
 
 What is VapeCoin?
 ----------------
-
-VapeCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the VapeCoin client sofware, see http://www.vapecoin.org.
+Vapecoin is the new primary currency for the upcoming Vapecoin vaping store
 
 License
 -------
